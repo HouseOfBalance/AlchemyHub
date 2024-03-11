@@ -1,4 +1,4 @@
-local SlayerzUI_Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2-Neptune/SlayerzUI/main/Notification.script"))()
+local SlayerzUI_Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/HouseOfBalance/SlayerzUI/main/Notification.script"))()
 local NameHub = "Alchemy Hub"
 local Description = "Hello, TYSM for using ours script!"
 local Logo = "rbxassetid://14981376704"
